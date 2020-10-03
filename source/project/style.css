@@ -44,6 +44,7 @@ h2 {
 
 .container {
   width: 100%;
+  height: auto;
 }
 
 .site-header img {
